@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Eduarda Nichelle 👋
 
 - 📚 Estudo no IFC
-- 🧪 <a href="https://certificados.onciencias.org/client/search/onc?st=1&q=QWQUQOY7"> Menção Honrosa na Olimpíada Nacional de Ciências </a>
+- 🧪 <a href="https://certificados.onciencias.org/client/search/onc?st=1&q=QWQUQOY7"> Menção Honrosa na Olimpíada Nacional de Ciências em 2020 </a>
 - 🧮 <a href="https://noticias.araquari.ifc.edu.br/alunos-do-ifc-araquari-conquistam-medalha-de-prata-e-mencoes-honrosas-na-16a-edicao-da-obmep/
 "> Menção Honrosa na 16ª edição da Olimpíada Brasileira de Matemática das Escolas Públicas</a>
 <div align="center">
