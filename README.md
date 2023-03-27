@@ -5,11 +5,9 @@
 - 🧮 <a href="https://noticias.araquari.ifc.edu.br/alunos-do-ifc-araquari-conquistam-medalha-de-prata-e-mencoes-honrosas-na-16a-edicao-da-obmep/
 "> Menção Honrosa na 16ª edição da Olimpíada Brasileira de Matemática das Escolas Públicas</a>
 
- <div>
-   <a href="https://github.com/mariaeduardanichelle">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardanichelle&show_icons=true&theme=tokyonight&include_all_commits&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardanichelle&layout=compact&langs_count=6&theme=tokyonight"/>
-
+<div style="display:flex; align-items: center; justify: center; gap:10%; margin-top: 5%; margin-bottom: 7%;">
+	   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardanichelle&show_icons=true&theme=tokyonight&count_private=true"/>
+	   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardanichelle&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
