@@ -5,7 +5,7 @@
 - 🧮 <a href="https://noticias.memoria.araquari.ifc.edu.br/alunos-do-ifc-araquari-conquistam-medalha-de-prata-e-mencoes-honrosas-na-16a-edicao-da-obmep/"> Menção Honrosa na 16ª edição da Olimpíada Brasileira de Matemática das Escolas Públicas</a>
 
 <div style="display:flex; align-items: center; justify: center; gap:10%; margin-top: 5%; margin-bottom: 7%;">
-	   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardanichelle&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
+	   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardanichelle&show_icons=true&count_private=true&include_all_comits=true&theme=tokyonight"/>
 	   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardanichelle&layout=compact&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
