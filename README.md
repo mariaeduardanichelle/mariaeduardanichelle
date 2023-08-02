@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Maria Eduarda Nichelle 👋
 
 - 📚 Bacharelanda em Sistemas de Informação (Instituto Federal Catarinense) 
-- 🧪 <a href="https://certificados.onciencias.org/client/search/onc?st=1&q=QWQUQOY7"> Menção Honrosa na Olimpíada Nacional de Ciências de 2020 </a>
-- 🧮 <a href="https://noticias.memoria.araquari.ifc.edu.br/alunos-do-ifc-araquari-conquistam-medalha-de-prata-e-mencoes-honrosas-na-16a-edicao-da-obmep/"> Menção Honrosa na 16ª edição da Olimpíada Brasileira de Matemática das Escolas Públicas</a>
 
 <div style="display:flex; align-items: center; justify: center; gap:10%; margin-top: 5%; margin-bottom: 7%;">
 	   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardanichelle&show_icons=true&count_private=true&include_all_comits=true&theme=tokyonight"/>
